@@ -1,0 +1,30 @@
+
+:root {
+    --color-color-brand-01: #c02a0c; 
+    --color-yellow-01: #faa320; 
+    --color-yellow-02: #fef6e9; 
+    --color-green-01: #2ac685; 
+    --color-green-02: #eaf9f3; 
+    --color-blue-01: #4f60f5; 
+    --color-blue-02: #edeffe; 
+    --color-color-brand-02: #f35e40; 
+    --color-violet-01: #c05ed7; 
+    --color-color-brand-03: #fde2dd; 
+    --color-color-base-dark-01: #272626; 
+    --color-color-neutral-01: #4c4542; 
+    --color-color-base-dark-02: #272626cc; 
+    --color-color-neutral-02: #7f726e; 
+    --color-color-neutral-03: #978b87; 
+    --color-color-neutral-04: #bdb5b3; 
+    --color-color-neutral-05: #d9d5d3; 
+    --color-color-neutral-06: #7d684f1f; 
+    --color-color-neutral-07: #7d684f14; 
+    --color-color-neutral-08: #f9f7f3; 
+    --color-color-base-white-01: #ffffff; 
+    --color-color-base-white-02: #ffffffa3; 
+    --color-violet-02: #f9effb; 
+    --color-colors-figma-component: #9747ff; 
+    --color-colors-figma-blue: #0e8aff; 
+    --color-colors-figma-attention: #ff0000; 
+    --color-colors-figma-bg: #faf9fb; 
+}

@@ -1,0 +1,23 @@
+
+:root {
+    --measure-dimension-rounding-none: 0px;     
+    --measure-dimension-rounding-4px: 4px;     
+    --measure-dimension-rounding-6px: 6px;     
+    --measure-dimension-rounding-circular: 500px;     
+    --measure-dimension-spacing-none: 0px;     
+    --measure-dimension-spacing-2px: 2px;     
+    --measure-dimension-spacing-4px: 4px;     
+    --measure-dimension-spacing-6px: 6px;     
+    --measure-dimension-spacing-8px: 8px;     
+    --measure-dimension-spacing-12px: 12px;     
+    --measure-dimension-spacing-16px: 16px;     
+    --measure-dimension-spacing-20px: 20px;     
+    --measure-dimension-spacing-24px: 24px;     
+    --measure-dimension-spacing-32px: 32px;     
+    --measure-dimension-spacing-40px: 40px;     
+    --measure-dimension-spacing-48px: 48px;     
+    --measure-dimension-spacing-56px: 56px;     
+    --measure-dimension-spacing-64px: 64px;     
+    --measure-dimension-5px: 5px;     
+    --measure-dimension-16px: 16px;     
+}

@@ -1,0 +1,13 @@
+
+:root {
+    --shadow-level-1: 0 4px 24px 0 rgba(102,89,57,0.05);   
+
+    --shadow-level-2: 0 4px 32px 0 rgba(102,89,57,0.09);   
+
+    --shadow-level-3: 0 8px 24px 0 rgba(102,89,57,0.16);   
+
+    --shadow-level-4: 0 8px 40px 0 rgba(102,89,57,0.2);   
+
+    --shadow-inner-shadow: inset 0 0 1px 0 rgba(135,104,92,0.8);   
+
+}

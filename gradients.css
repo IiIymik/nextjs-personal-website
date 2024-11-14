@@ -1,0 +1,33 @@
+
+:root {
+    --gradient-cream-01: linear-gradient(
+          90deg,
+          #eae2d3 0%,   
+          #eeeae3 100%  
+        )
+        ;     
+    --gradient-cream-02: linear-gradient(
+          270deg,
+          #f7f6f2 0%,   
+          #f5f1ea 100%  
+        )
+        ;     
+    --gradient-cream-transparent-01: linear-gradient(
+          180deg,
+          #efece600 0%,   
+          #efece6 100%  
+        )
+        ;     
+    --gradient-cream-transparent-02: linear-gradient(
+          180deg,
+          #f9f7f300 0%,   
+          #f9f7f3 100%  
+        )
+        ;     
+    --gradient-white-transparent: linear-gradient(
+          180deg,
+          #ffffff00 0%,   
+          #ffffff 100%  
+        )
+        ;     
+}
